@@ -2,10 +2,15 @@
    "wallpapers": [
      {
          "author": "Vukašin Anđelković",
+         "url": "http://i.imgur.com/7LRzu1r.png",
+         "name": "Birch Woods"
+      },
+      {
+         "author": "Vukašin Anđelković",
          "url": "http://i.imgur.com/wX7Jnd4.png",
          "name": "Beach"
       },
-     {
+      {
          "author": "Vukašin Anđelković",
          "url": "http://i.imgur.com/TIk1l63.png",
          "name": "Waterfall"
